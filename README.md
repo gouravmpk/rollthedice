@@ -1,6 +1,9 @@
-# dice
+# Roll The Dice 
 
-A new Flutter application.
+Its a Simple Application which contains two 6 face dice. 
+
+# Demo 
+![](images/Screenshot.png)
 
 ## Getting Started
 
